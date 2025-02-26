@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my modified file of first project of another branch on main branch
+=======
+This feature will improve user experience
+>>>>>>> NewBranch
